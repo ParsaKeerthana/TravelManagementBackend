@@ -1,0 +1,3 @@
+/Users/keerthanaparsa/CLionProjects/TravelManagement/cmake-build-debug/CMakeFiles/TravelManagement.dir
+/Users/keerthanaparsa/CLionProjects/TravelManagement/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/keerthanaparsa/CLionProjects/TravelManagement/cmake-build-debug/CMakeFiles/rebuild_cache.dir
